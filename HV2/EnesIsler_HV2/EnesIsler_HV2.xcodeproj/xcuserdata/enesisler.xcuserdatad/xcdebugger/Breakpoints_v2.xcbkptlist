@@ -1,0 +1,180 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "B03F090F-1B5E-4178-BC88-A03EF7BD8C24"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "777A78E2-8ECA-430C-883D-7DD48702F2F9"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "EnesIsler_HV2/NewsTableViewCell.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "13"
+            endingLineNumber = "13"
+            landmarkName = "TableViewCell"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  uuid = "777A78E2-8ECA-430C-883D-7DD48702F2F9 - 86f0f4baf4c5fcc3"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "EnesIsler_HV2.TableViewCell.newsTitle.getter : Swift.Optional&lt;__C.UILabel&gt;"
+                  moduleName = "EnesIsler_HV2"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/enesisler/Desktop/TGY%20O%CC%88devler/HV2/EnesIsler_HV2/EnesIsler_HV2/NewsTableViewCell.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "88">
+               </Location>
+               <Location
+                  uuid = "777A78E2-8ECA-430C-883D-7DD48702F2F9 - c7e4c9e97653a937"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "EnesIsler_HV2.TableViewCell.newsTitle.setter : Swift.Optional&lt;__C.UILabel&gt;"
+                  moduleName = "EnesIsler_HV2"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/enesisler/Desktop/TGY%20O%CC%88devler/HV2/EnesIsler_HV2/EnesIsler_HV2/NewsTableViewCell.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "108">
+               </Location>
+               <Location
+                  uuid = "777A78E2-8ECA-430C-883D-7DD48702F2F9 - 71762326923b67c6"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "EnesIsler_HV2.TableViewCell.newsTitle.modify : Swift.Optional&lt;__C.UILabel&gt;"
+                  moduleName = "EnesIsler_HV2"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/enesisler/Desktop/TGY%20O%CC%88devler/HV2/EnesIsler_HV2/EnesIsler_HV2/NewsTableViewCell.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "0">
+               </Location>
+               <Location
+                  uuid = "777A78E2-8ECA-430C-883D-7DD48702F2F9 - 23d635fa940990ef"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "EnesIsler_HV2.TableViewCell.newsTitle.modify : Swift.Optional&lt;__C.UILabel&gt; with unmangled suffix &quot;.resume.0&quot;"
+                  moduleName = "EnesIsler_HV2"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/enesisler/Desktop/TGY%20O%CC%88devler/HV2/EnesIsler_HV2/EnesIsler_HV2/NewsTableViewCell.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "28">
+               </Location>
+               <Location
+                  uuid = "777A78E2-8ECA-430C-883D-7DD48702F2F9 - a9b70b329afea42f"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "EnesIsler_HV2.TableViewCell.init(style: __C.UITableViewCellStyle, reuseIdentifier: Swift.Optional&lt;Swift.String&gt;) -&gt; EnesIsler_HV2.TableViewCell"
+                  moduleName = "EnesIsler_HV2"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/enesisler/Desktop/TGY%20O%CC%88devler/HV2/EnesIsler_HV2/EnesIsler_HV2/NewsTableViewCell.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "132">
+               </Location>
+               <Location
+                  uuid = "777A78E2-8ECA-430C-883D-7DD48702F2F9 - 9df67cd8bd4cb9eb"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "EnesIsler_HV2.TableViewCell.init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;EnesIsler_HV2.TableViewCell&gt;"
+                  moduleName = "EnesIsler_HV2"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/enesisler/Desktop/TGY%20O%CC%88devler/HV2/EnesIsler_HV2/EnesIsler_HV2/NewsTableViewCell.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "108">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "96865AC7-2D29-487F-93C5-F4C2929D5BBF"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "NewsAPI/Sources/NewsAPI/Services/NewsService.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "19"
+            endingLineNumber = "19"
+            landmarkName = "fetchTopStories(completion:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "A978462A-B38A-4E68-9E89-55CF0C0A206B"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "NewsAPI/Sources/NewsAPI/Services/NewsService.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "28"
+            endingLineNumber = "28"
+            landmarkName = "fetchTopStories(completion:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "4DDED1F5-6DDE-49BA-AA8F-C50978F07ED5"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "NewsAPI/Sources/NewsAPI/Services/NewsService.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "29"
+            endingLineNumber = "29"
+            landmarkName = "fetchTopStories(completion:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "E66BD49D-92DD-4A9B-85B7-919B6196238B"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "EnesIsler_HV2/News/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "35"
+            endingLineNumber = "35"
+            landmarkName = "fetchNews()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
