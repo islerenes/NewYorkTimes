@@ -23,4 +23,11 @@ Libraries used in practice
 
 
 
+
+https://github.com/islerenes/EnesIsler_HW2/assets/58097246/e9058c1d-de62-4f73-98f4-495b4ef4387e
+
+
+
+
+
   
