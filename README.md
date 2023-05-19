@@ -19,9 +19,9 @@ Libraries used in practice
 - Alamofire
 - SDWebImage
 
-# Nasil Kurulur?
+# How to Install
 
-Projeyi Xcode ile clone ettikten sonra .xcodeproj dosyası ile projeyi açabilirsiniz.
+After you clone the project with Xcode, you can open the project with the .xcodeproj file.
 
 <img width="419" alt="Ekran Resmi 2023-05-19 16 06 09" src="https://github.com/islerenes/EnesIsler_HW2/assets/58097246/f85a0141-cbb4-4366-9508-c14941c47fc0">
 
