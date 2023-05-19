@@ -28,8 +28,7 @@ class LoadingView {
     }
     
     func startLoading() {
-        //UIApplication.shared.windows.first?.addSubview(blurView)
-        UIApplication.shared.connectedScenes.first?.inputView?.addSubview(blurView)
+        UIApplication.shared.windows.first?.addSubview(blurView)
         blurView.translatesAutoresizingMaskIntoConstraints = false
         activityIndicator.startAnimating()
     }

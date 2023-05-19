@@ -39,7 +39,6 @@ class ViewController: UIViewController, LoadingShowable {
             self.hideLoading()
             switch response {
             case .success(let news):
-                //print("Enes: \(news)")
                 self.news = news
                 tableViewController.reloadData()
             case .failure(let error):
@@ -67,10 +66,10 @@ extension ViewController : UITableViewDelegate, UITableViewDataSource {
     
     func tableView(_ tableView: UITableView, didSelectRowAt indexPath: IndexPath) {
         let selected = self.news[indexPath.row]
-        selectedTitle = selected.title ?? "NoTitle"
-        selectedUrl = selected.url ?? "NoUrl"
-        selectedAbstract = selected.abstract ?? "NoAbstract"
-        selectedImage = selected.multimedia?[1].url ?? "NoMedia"
+        selectedTitle = selected.title!
+        selectedUrl = selected.url!
+        selectedAbstract = selected.abstract!
+        selectedImage = selected.multimedia?[1].url ?? "NoUrl"
         
         performSegue(withIdentifier: "GoToNewsDetail", sender: nil)
         

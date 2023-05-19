@@ -29,8 +29,6 @@ class TopStroiesNewsCell: UITableViewCell {
         preparePosterImage(with: news.multimedia?[1].url)
         newsTitle.text = news.title
         author.text = news.byline
-        //var url = news.url
-        //var abstract = news.abstract
         
     }
     
